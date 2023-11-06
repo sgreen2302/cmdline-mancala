@@ -1,0 +1,5 @@
+(library
+ (name mancala)
+ (public_name Mancala)
+ (instrumentation
+  (backend bisect_ppx)))

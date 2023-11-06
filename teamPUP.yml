@@ -1,0 +1,28 @@
+---
+# Members of your group.
+group:
+  - name: Simone Green
+    netid: sfg63
+  - name: Dasha Griffiths
+    netid: dkg39
+  - name: Rachel Tong
+    netid: rt387
+# Your PM.
+pm:
+  name: Peter Huo
+  netid: yh384
+# Set to false if you don't want your gallery entry to be public.
+publish: true
+# Pithy title
+title: "Mancala"
+# OK if this is a Cornell Github link, but public gallery viewers won't be able to see it.
+git-repo: "https://github.coecis.cornell.edu/sfg63/cs3110-finalproject.git"
+# If you have no demo screencast, replace the url string with an empty string ""
+demo-video-url: "https://www.youtube.com/watch?v=pKL6qqgKkUI"
+# Write a short, attention-grabbing description of your project.
+desc: >
+  Our project is a command-line interactive version of the game Mancala.
+  It supports two-player gameplay and additionally allows users to play
+  against a computer AI in a single-player mode, with four difficulty levels
+  to choose from. The interface keeps track of the winner for each round and 
+  provides an option to continue gameplay by prompting to play again.

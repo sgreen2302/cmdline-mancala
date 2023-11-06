@@ -1,0 +1,11 @@
+This code runs a command-line interface of the game Mancala.
+The player rules and starting board are displayed as a result of case-sensitive
+"Yes" and "No" commands. If something other than these two commands are entered,
+the player will be reprompted to enter input.
+
+If not already installed on computer, please follow OPAM Housekeeping 
+instructions listed in A2 handout.
+
+To run the game:
+
+run [make play] in the terminal
